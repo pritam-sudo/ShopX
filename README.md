@@ -26,14 +26,6 @@ A full-featured e-commerce platform built with PHP and MySQL.
 4. Set up your web server to point to the project directory
 5. Access the application through your web browser
 
-## Admin Access
-
-Default admin credentials:
-- Username: admin
-- Password: admin123
-
-**Note:** Please change the default admin credentials after first login.
-
 ## Security
 
 - All user inputs are sanitized
